@@ -1,2 +1,2 @@
-# Python---practice---and---project
+# Python-practice-and-project
 python internship tasks and practice programs
